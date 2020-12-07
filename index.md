@@ -6,11 +6,13 @@ I obtained my PhD on Information and Communication Technologies at the [Computer
 
 ## Research interests and projects
 
-I am a Bioinformatics and Computational Biology researcher with background on Computer Science and Engineering. I have always been interested both in Programming and Artificial Intelligence. During my PhD, my research interests moved towards Bioinformatics and Computational Biology, where I discovered a fascinating field on which I could apply and broaden my Computer Science skills. As a researcher in such an interdisciplinary field, my interests span areas of knowledge such as Software Development, Machine Learning, Statistics, Genomics or Molecular Biology. 
+I am a Bioinformatics and Computational Biology researcher with background in Computer Science and Engineering. I have always been interested both in Programming and Artificial Intelligence. During my PhD, my research interests shifted towards Bioinformatics and Computational Biology, where I discovered a fascinating field on which I could apply and broaden my Computer Science skills. As a researcher in such an interdisciplinary field, my interests span areas of knowledge such as Software Development, Machine Learning, Statistics, Genomics or Molecular Biology.
 
-I have worked on several Bioinformatics projects, including motif-based computational approaches to find regulatory elements and modules ([CisMiner](https://www.ncbi.nlm.nih.gov/pubmed/25268582), [DiGSNP](http://journal.embnet.org/index.php/embnetjournal/article/view/556)), prioritization methodologies on heterogeneous networks applied to biological entities ([ProphTools](http://github.com/cnluzon/prophtools), [DrugNet](http://www.sciencedirect.com/science/article/pii/S0933365714001444)), and the study of long non-coding RNAs. 
+As a trained engineer, I am also very interested in the process of research in itself. I believe that making data analysis processes reproducible and transparent makes our results more reliable and allows us to benefit from the help of our peers. In this sense, I am always learning about Reproducible Science and trying to translate what I learn about good software development practices to my own research.
 
-Here, at my GitHub account, you can download or contribute to the source code for our latest project, [ProphTools](http://github.com/cnluzon/prophtools), a general method for prioritization on heterogeneous networks, available under GPLv3.0+ license. 
+I have worked on several Bioinformatics projects, including motif-based computational approaches to find regulatory elements and modules ([CisMiner](https://www.ncbi.nlm.nih.gov/pubmed/25268582), [DiGSNP](http://journal.embnet.org/index.php/embnetjournal/article/view/556)), prioritization methodologies on heterogeneous networks applied to biological entities ([ProphTools](http://github.com/cnluzon/prophtools), [DrugNet](http://www.sciencedirect.com/science/article/pii/S0933365714001444)), and the study of long non-coding RNAs.
+
+At my [GitHub account](https://github.com/cnluzon), you can download or contribute to the source code for [ProphTools](http://github.com/cnluzon/prophtools), a general method for prioritization on heterogeneous networks, available under GPLv3.0+ license.
 
 ## Publications
 
